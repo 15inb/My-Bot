@@ -112,4 +112,4 @@ client.on('message', async message => {
 })
 
 //Your secret token to log the bot in. (never show this to anyone!)
-client.login('NDk4MzI3NjIxNzk3NDEyODkw.DpsXMA.ELfl7_Sz24WOaZlCeVivd5c5ax4')
+client.login('your token here')
