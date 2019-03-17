@@ -26,4 +26,4 @@ client.on('message', msg => {
   // Rest of your code
 })
 
-client.login('NDk4MzI3NjIxNzk3NDEyODkw.DpsXMA.ELfl7_Sz24WOaZlCeVivd5c5ax4');
+client.login('your token here');
