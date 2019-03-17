@@ -1,5 +1,5 @@
 const Discord = require("discord.js");
-const BOT_TOKEN = "NDk4MzI3NjIxNzk3NDEyODkw.DpsXMA.ELfl7_Sz24WOaZlCeVivd5c5ax4"
+const BOT_TOKEN = "your token here"
 const PREFIX = "!"
 var eightball = [
     "you're a cunt stfu yes", // Works
